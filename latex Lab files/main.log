@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.8)  8 MAR 2017 12:23
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.8)  8 MAR 2017 11:51
->>>>>>> 9d4f84845af0de3226f64c02a05795efe4d65470
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.8)  8 MAR 2017 12:37
 entering extended mode
 **./main.tex
 (main.tex
@@ -30,7 +26,6 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 (C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-<<<<<<< HEAD
 64B-387CA326EF7B\root\tex/latex\graphics\color.sty
 Package: color 2016/06/02 v1.1d Standard LaTeX Color (DPC)
 
@@ -55,8 +50,6 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gread@gobject=\count87
 ))
 (C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-=======
->>>>>>> 9d4f84845af0de3226f64c02a05795efe4d65470
 64B-387CA326EF7B\root\tex/latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -78,7 +71,6 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-<<<<<<< HEAD
 )
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -104,54 +96,6 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
  (C:\Users\psynm3\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
-=======
-
-(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-64B-387CA326EF7B\root\tex/latex\graphics-def\pdftex.def
-File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
-
-(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-64B-387CA326EF7B\root\tex/generic\oberdiek\infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-64B-387CA326EF7B\root\tex/generic\oberdiek\ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
-))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
-)
-(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-64B-387CA326EF7B\root\tex/latex\graphics\color.sty
-Package: color 2016/06/02 v1.1d Standard LaTeX Color (DPC)
-
-(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
-64B-387CA326EF7B\root\tex/latex\00miktex\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-) (main.aux
-(sections/SharedDoc.aux) (sections/FirstPart.aux) (sections/SecondPart.aux)
-(sections/ThirdPart.aux) (sections/FourthPart.aux))
-\openout1 = `main.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-
-(C:\Users\psyds3\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
->>>>>>> 9d4f84845af0de3226f64c02a05795efe4d65470
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -220,7 +164,6 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-<<<<<<< HEAD
 (Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
@@ -229,16 +172,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/psynm3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-=======
-(Font)              <12> on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
- [1
-
-{C:/Users/psyds3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
->>>>>>> 9d4f84845af0de3226f64c02a05795efe4d65470
 \openout2 = `sections/SharedDoc.aux'.
 
  (sections/SharedDoc.tex
@@ -292,7 +225,6 @@ Package pdftex.def Info: max.jpg used on input line 19.
 [7]
 \openout2 = `sections/FourthPart.aux'.
 
-<<<<<<< HEAD
  (sections/FourthPart.tex
 <Smiley-Faces.jpg, id=33, 276.03125pt x 183.68625pt>
 File: Smiley-Faces.jpg Graphic file (type jpg)
@@ -333,45 +265,9 @@ mData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA3
 26EF7B/root/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/ProgramData/App-V/826E
 1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (8 pages, 241805 bytes).
+Output written on main.pdf (8 pages, 241821 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- (sections/FourthPart.tex) [8
-
-
-] (main.aux (sections/SharedDoc.aux)
-(sections/FirstPart.aux) (sections/SecondPart.aux) (sections/ThirdPart.aux)
-(sections/FourthPart.aux)) ) 
-Here is how much of TeX's memory you used:
- 1603 strings out of 493334
- 26435 string characters out of 3108314
- 82384 words of memory out of 3000000
- 5099 multiletter control sequences out of 15000+200000
- 8196 words of font info for 29 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 40i,9n,25p,601b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E0
-3923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/c
-m/cmbx10.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E0
-7-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864
-B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/ProgramData/
-App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B
-/root/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/ProgramData/App-V/826E1EBA-
-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-E
-E5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E
-7E07-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-<C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-8
-64B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (8 pages, 232528 bytes).
-PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 9d4f84845af0de3226f64c02a05795efe4d65470
 
