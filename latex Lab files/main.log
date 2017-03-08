@@ -1,0 +1,273 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.8)  8 MAR 2017 12:23
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2016/03/31> patch level 2
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\base\size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics\color.sty
+Package: color 2016/06/02 v1.1d Standard LaTeX Color (DPC)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\00miktex\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics-def\pdftex.def
+File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics\graphics.sty
+Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\00miktex\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (main.aux
+(sections/SharedDoc.aux) (sections/FirstPart.aux) (sections/SecondPart.aux)
+(sections/ThirdPart.aux) (sections/FourthPart.aux
+
+LaTeX Warning: Label `fig:selfie' multiply defined.
+
+))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+ (C:\Users\psynm3\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+{C:/Users/psynm3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `sections/SharedDoc.aux'.
+
+ (sections/SharedDoc.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+)
+[2
+
+]
+\openout2 = `sections/FirstPart.aux'.
+
+ (sections/FirstPart.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(C:\ProgramData\App-V\826E1EBA-FBF5-4034-AA7B-EE5E03923B22\474E7E07-2902-49ED-8
+64B-387CA326EF7B\root\tex/latex\base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+
+<max.jpg, id=13, 289.08pt x 361.35pt>
+File: max.jpg Graphic file (type jpg)
+ <use max.jpg>
+Package pdftex.def Info: max.jpg used on input line 20.
+(pdftex.def)             Requested size: 172.5pt x 215.6207pt.
+ [3
+
+
+ <./max.jpg>]) [4]
+\openout2 = `sections/SecondPart.aux'.
+
+
+(sections/SecondPart.tex) [5
+
+
+]
+\openout2 = `sections/ThirdPart.aux'.
+
+ (sections/ThirdPart.tex
+File: max.jpg Graphic file (type jpg)
+ <use max.jpg>
+Package pdftex.def Info: max.jpg used on input line 19.
+(pdftex.def)             Requested size: 172.5pt x 215.6207pt.
+ [6
+
+
+])
+[7]
+\openout2 = `sections/FourthPart.aux'.
+
+ (sections/FourthPart.tex
+<Smiley-Faces.jpg, id=33, 276.03125pt x 183.68625pt>
+File: Smiley-Faces.jpg Graphic file (type jpg)
+ <use Smiley-Faces.jpg>
+Package pdftex.def Info: Smiley-Faces.jpg used on input line 21.
+(pdftex.def)             Requested size: 172.5pt x 114.7952pt.
+)
+[8
+
+
+ <./Smiley-Faces.jpg>] (main.aux (sections/SharedDoc.aux)
+(sections/FirstPart.aux) (sections/SecondPart.aux) (sections/ThirdPart.aux)
+(sections/FourthPart.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1608 strings out of 493334
+ 26534 string characters out of 3108314
+ 83965 words of memory out of 3000000
+ 5103 multiletter control sequences out of 15000+200000
+ 8196 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,9n,25p,601b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED
+-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/ProgramDa
+ta/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326E
+F7B/root/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/ProgramData/App-V/826E1E
+BA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/
+type1/public/amsfonts/cm/cmcsc10.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-A
+A7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B2
+2/474E7E07-2902-49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/ProgramData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-
+49ED-864B-387CA326EF7B/root/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
+mData/App-V/826E1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA3
+26EF7B/root/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/ProgramData/App-V/826E
+1EBA-FBF5-4034-AA7B-EE5E03923B22/474E7E07-2902-49ED-864B-387CA326EF7B/root/font
+s/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (8 pages, 241805 bytes).
+PDF statistics:
+ 63 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
